@@ -7,7 +7,7 @@ library(RCurl)
 library(bslib)
 
 
-data_url <- getURL("https://raw.githubusercontent.com/1R0NCL4D-B4ST10N/DATA332/main/carTracker/carTracker.csv")
+data_url <- getURL("https://raw.githubusercontent.com/Grant-Biggins/DATA332/refs/heads/main/carTrackerD.csv")
 
 dataset <- read.csv(text = data_url)
 
