@@ -1,0 +1,12 @@
+name: UberTripDashboard
+title: UberTripDashboard
+username: grantbiggins
+account: grantbiggins
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14667269
+bundleId: 10216163
+url: https://grantbiggins.shinyapps.io/UberTripDashboard/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
